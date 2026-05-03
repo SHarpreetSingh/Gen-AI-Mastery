@@ -9,3 +9,4 @@ results4Apr/
 *.bin
 *.arrow
 *.pickle
+.env
